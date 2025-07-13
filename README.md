@@ -36,6 +36,7 @@ setup:
     - "Python 3.8+"
     - "Git installed"
     - "Internet connection"
+
   installation_windows:
     - "git clone https://github.com/<your-username>/crypto-pulse.git"
     - "cd crypto-pulse"
@@ -52,4 +53,4 @@ automation:
     - "Set Action: Run program"
     - "Program/script: python C:\\full\\path\\to\\crypto-pulse\\db_store.py"
 
-like_this_project: "Drop a ⭐️ on GitHub if you found it helpful, or fork it and make it even better!"
+like this project: "Drop a ⭐️ on GitHub if you found it helpful, or fork it and make it even better!"
